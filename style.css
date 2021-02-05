@@ -1,0 +1,16 @@
+.box{
+    text-decoration: none;
+    font-size: 30px;
+    transition: all 0.8s;
+}
+.box:hover{
+    color: brown;
+    transition: all 0.8s;
+    font-size: 50px;
+}
+.box:active{
+    color: burlywood;
+}
+.box:visited{
+    color: chartreuse;
+}
